@@ -1,3 +1,4 @@
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 # Project 1: Linux Log Analysis & Security Auditing
 
 This tool automates the process of auditing Linux system logs to identify potential security threats, such as brute-force attacks and unauthorized access attempts. By correlating authentication logs with firewall data, it provides a clear picture of suspicious network activity.
@@ -48,3 +49,5 @@ When executed against standard system logs, the tool provides the following insi
 2. Run the analyzer:
    ```bash
    python3 log_analyzer.py
+
+---
