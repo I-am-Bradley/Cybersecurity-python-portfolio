@@ -1,0 +1,20 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables (API Keys)
+.env
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Databases and Local Data
+*.db
+*.sqlite3
+03-vending-machine-firmware/data/transactions.csv
+
+# OS specific
+.DS_Store
