@@ -1,0 +1,13 @@
+# Project 1: Log Analysis
+# (Uses built-in libraries: re, os, glob)
+
+# Project 2: NVD CVE Manager
+requests>=2.28.1
+plotly>=5.10.0
+pandas>=1.5.0
+python-dotenv>=1.0.0
+
+# Project 3: Vending Machine Firmware
+# (Requests used for ExchangeRateAPI)
+# (Pytest for required Unit Tests)
+pytest>=7.2.0
