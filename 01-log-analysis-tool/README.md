@@ -51,3 +51,13 @@ When executed against standard system logs, the tool provides the following insi
    python3 log_analyzer.py
 
 ---
+
+## 🧪 Testing & Validation
+This project includes a comprehensive test suite to ensure the accuracy of log parsing and IP correlation. We use `pytest` to validate the logic against known log entries.
+
+### How to Run Tests:
+1. Ensure you have `pytest` installed:
+   ```bash
+   pip install pytest
+2. Run the tests from the project root:
+   pytest tests/test_log_analyzer.py
