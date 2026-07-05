@@ -28,3 +28,7 @@ A simulated hardware-software interface for inventory and transaction management
    (https://github.com/I-am-Bradley/cybersecurity-python-portfolio.git)
 2. Install dependencies
    pip install -r requirements.txt
+---
+
+## Author
+**Titagwan Bradley** 
